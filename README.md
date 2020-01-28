@@ -1,2 +1,2 @@
-# Testing Code for ShakeLab
+# Demo Code for ShakeLab
 
